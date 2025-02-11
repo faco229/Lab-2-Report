@@ -39,26 +39,6 @@ The last part of this method section is dropping the fifth resistor in this para
 With the circuit constructed like this, now measure the voltage drop across R4. Record this as your Vth. Now, switch the lead over on the DMM to measure current and ensure it is set to read DC current. Now, use the nodes of the DMM to hook into the nodes of R4. What this does is create a short circuit and allows us to measure the Norton current. Record the result on a table. 
 Lastly, we are going to use the DMM as an Ohm meter to record the equivalent resistance which is (Rth/Rn) for the circuit. To do so, remove the nodes from the DC power supply and exchange them with a wire from the end of R1 and the end of R4. Measure and record the result on a table. 
 
-
-### Part 1: Series Circuit Assembly
-1. Verify resistor values with the DMM.
-2. Construct a series circuit with **1kΩ, 2.2kΩ, and 5.1kΩ resistors**.
-3. Solder the resistors onto the board and attach two wires for connection to **Vin = 10V**.
-4. Power the circuit using a **10V DC power supply**.
-5. Measure voltage drop across each resistor with the DMM and record the values.
-6. Measure circuit current by switching the DMM mode and breaking a circuit connection.
-
-### Part 2: Parallel Circuit Assembly
-1. Verify resistor values with the DMM.
-2. Construct a parallel circuit using **4.7kΩ, 6.8kΩ, 15kΩ, 220kΩ, and 2.2kΩ resistors**, powered by **Vin = 12V**.
-3. Measure and record **current** values for each resistor by placing the DMM in series.
-4. Measure and record **voltage drops** across each resistor by placing the DMM in parallel.
-
-### Part 3: Thevenin & Norton Equivalents
-1. Remove the fifth resistor and measure **Thevenin voltage (Vth)** across R4.
-2. Use the DMM to measure **Norton current (IN)** by short-circuiting the load.
-3. Measure **Thevenin resistance (Rth)** by removing the power supply and using the DMM as an Ohm meter.
-
 ## Results
 ### Resistor Measurements
 | Resistor | Measured Resistance |
@@ -170,3 +150,14 @@ This lab reinforced key circuit analysis concepts and provided hands-on experien
 - Using a DMM for voltage, current, and resistance measurements
 
 Understanding KCL, KVL, and Thevenin’s Theorem in practical applications deepened our knowledge of circuit theory and troubleshooting methods.
+
+
+
+
+## Acknowledgment
+
+This report was prepared with assistance from ChatGPT for converting content to LaTeX format.
+
+```plaintext
+ChatGPT. (2025). Assistance in converting lab report to LaTeX format. OpenAI. Retrieved from https://openai.com
+
