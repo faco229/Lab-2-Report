@@ -154,10 +154,8 @@ Understanding KCL, KVL, and Thevenin’s Theorem in practical applications deepe
 
 
 
-## Acknowledgment
-
-This report was prepared with assistance from ChatGPT for converting content to LaTeX format.
+### Acknowledgment
+This document was formatted with assistance from ChatGPT.
 
 ```plaintext
-ChatGPT. (2025). Assistance in converting lab report to LaTeX format. OpenAI. Retrieved from https://openai.com
-
+ChatGPT. (2025). Assistance in formatting lab report to Markdown/LaTeX. OpenAI. Retrieved from https://openai.com
