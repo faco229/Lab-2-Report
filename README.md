@@ -21,6 +21,7 @@ This lab consisted of measuring currents and voltages on a circuit we built and 
 - Resistors: 1kΩ, 2.2kΩ, 4.7kΩ, 5.1kΩ, 6.8kΩ, 15kΩ, 220kΩ
 Before soldering, the resistor values need to be verified. Next, the task is building a simple series circuit with the 1k, 2.2k, and 5.1k resistor and soldering them to the board. Once the resistors are in place, two more wires can be soldered to each end of R1 and R3 respectively to connect to Vin which is 10 volts.
 
+![Figure 1: Series Circuit Instructed to Build] (https://github.com/faco229/Lab-2-Report/blob/main/Fig1.%20Series%20Circuit%20Instructed%20to%20Build.jpg)
 
 Now that our circuit is built on the solder protoboard, the DC power supply can be set to 10 volts and be connected to the circuit. With our circuit now powered, use the DMM to measure the voltage drop across each resistor. To do so, make sure that the DMM is set to read voltage. Next, using the two nodes, place the red (+) on the left and the black (-) on the right side of the resistor. The DMM should produce a positive reading. Although we are just looking for the magnitude, if the nodes were swapped in position the DMM would produce the same magnitude but a negative reading. Record the measurements for each voltage drop across each resistor on a table. 
 
